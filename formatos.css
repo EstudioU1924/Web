@@ -9,9 +9,9 @@ body {
 }
 
 #Semana{
+    width: 100%;
     text-align: center;
-    border: solid 2px black;
-    display: table;
+    border: solid 2px tomato;
 }
 
 .Noticias {
