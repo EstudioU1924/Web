@@ -10,6 +10,7 @@ body {
 
 table {
     width: 100%;
+    border: solid 1px #000;
 }
 
 th {
@@ -20,4 +21,9 @@ th {
 td {
     text-align: justify;
     border: solid 1px #000;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    font-size: medium;
 }
