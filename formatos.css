@@ -2,9 +2,7 @@
     color: white;
     text-align: center;
     background-color: black;
-    
 }
-
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -12,6 +10,7 @@ body {
 
 table{
     text-align: center;
+    display: table;
 }
 
 .Noticias {
