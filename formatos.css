@@ -12,14 +12,17 @@ table {
 
 #Semana {
     text-align: center;
+    border-collapse: separate;
 }
 
 .Noticias {
     text-align: justify;
+    border-collapse: separate;
 }
 
 .VoleyTabla {
     text-align: center;
+    border-collapse: separate;
 }
 
 h1, h2, h3, h4 {
