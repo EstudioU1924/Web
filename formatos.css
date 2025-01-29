@@ -9,6 +9,7 @@ body {
 
 table {
     border-collapse: separate;
+    text-align: center;
 }
 
 #Semana {
