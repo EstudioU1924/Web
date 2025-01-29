@@ -1,20 +1,24 @@
 header {
-    align-items: center;
+    align-content: center;
 }
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #Semana {
     text-align: center;
+    border: solid;
 }
 
 .Noticias {
     text-align: justify;
+    border: solid;
 }
 
 .VoleyTabla {
     text-align: center;
+    border: solid;
 }
 
 h1, h2, h3, h4 {
