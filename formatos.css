@@ -8,7 +8,7 @@ body {
 
 #Semana {
     text-align: center;
-    border-collapse: separate;
+    border: solid 1px black;
 }
 
 .Noticias {
