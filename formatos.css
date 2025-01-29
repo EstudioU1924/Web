@@ -1,4 +1,4 @@
-.encabezaddo {
+#encabezaddo {
     align-content: center;
 }
 
@@ -6,17 +6,21 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#Semana {
+table {
+    border-collapse: separate;
+}
+
+.Semana {
     text-align: center;
     border-collapse: separate;
 }
 
-.Noticias {
+#Noticias {
     text-align: justify;
     border-collapse: separate;
 }
 
-.VoleyTabla {
+#VoleyTabla {
     text-align: center;
     border-collapse: separate;
 }
