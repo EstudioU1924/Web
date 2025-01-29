@@ -8,22 +8,14 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#Semana{
+table {
     width: 100%;
-    text-align: center;
-    border: solid 2px tomato;
 }
 
-.Noticias {
+th {
+    text-align: center;
+}
+
+td {
     text-align: justify;
-    border: solid 2px black;
-}
-
-.VoleyTabla {
-    text-align: center;
-    border: 1px;
-}
-
-h1, h2, h3, h4 {
-    text-align: center;
 }
