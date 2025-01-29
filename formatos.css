@@ -8,17 +8,17 @@ body {
 
 #Semana {
     text-align: center;
-    border: solid;
+    border: solid 1px black;
 }
 
 .Noticias {
     text-align: justify;
-    border: solid;
+    border: solid 1px black;
 }
 
 .VoleyTabla {
     text-align: center;
-    border: solid;
+    border: solid 1px black;
 }
 
 h1, h2, h3, h4 {
