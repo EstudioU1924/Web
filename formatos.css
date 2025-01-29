@@ -8,6 +8,11 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1, h2, h3, h4 {
+    text-align: center;
+    font-size: medium;
+}
+
 table {
     width: 100%;
     border: solid 1px #000;
@@ -23,7 +28,3 @@ td {
     border: solid 1px #000;
 }
 
-h1, h2, h3, h4 {
-    text-align: center;
-    font-size: medium;
-}
