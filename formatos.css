@@ -1,4 +1,4 @@
-#encabezaddo {
+#encabezado {
     align-content: center;
 }
 
@@ -10,17 +10,17 @@ table {
     border-collapse: separate;
 }
 
-.Semana {
+#Semana {
     text-align: center;
     border-collapse: separate;
 }
 
-#Noticias {
+.Noticias {
     text-align: justify;
     border-collapse: separate;
 }
 
-#VoleyTabla {
+.VoleyTabla {
     text-align: center;
     border-collapse: separate;
 }
