@@ -13,6 +13,7 @@ body {
 
 .Noticias {
     text-align: justify;
+    border: solid 1px black;
 }
 
 .VoleyTabla {
