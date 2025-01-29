@@ -20,7 +20,7 @@ table{
 
 .VoleyTabla {
     text-align: center;
-    border-collapse: separate;
+    border: 1px;
 }
 
 h1, h2, h3, h4 {
