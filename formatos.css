@@ -1,22 +1,23 @@
 #encabezado {
+    color: white;
     text-align: center;
     background-color: black;
-    color: white;
+    
 }
+
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #Semana {
-    text-align: justify;
+    text-align: center;
     border: black 2 px solid;
-    border-collapse: separate;
 }
 
 .Noticias {
     text-align: justify;
-    border-collapse: separate;
+    border: solid 2px black;
 }
 
 .VoleyTabla {
