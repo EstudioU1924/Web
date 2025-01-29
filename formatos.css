@@ -14,8 +14,10 @@ table {
 
 th {
     text-align: center;
+    border: solid 1px #000;
 }
 
 td {
     text-align: justify;
+    border: solid 1px #000;
 }
