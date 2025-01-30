@@ -1,6 +1,7 @@
 #encabezado {
     color: white;
     text-align: center;
+    font-weight: bold;
     background-color: black;
 }
 
@@ -18,7 +19,7 @@ table {
     border: solid 1px #000;
 }
 
-.TablaCentro {
+td.TablaCentro {
     text-align: center;
 }
 
