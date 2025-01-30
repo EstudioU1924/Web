@@ -14,15 +14,16 @@ h1, h2, h3, h4 {
     font-size: medium;
 }
 
+td.TablaCentro {
+    text-align: center;
+}
 
 table {
     width: 100%;
     border: solid 1px #000;
 }
 
-td.TablaCentro {
-    text-align: center;
-}
+
 
 th {
     text-align: center;
