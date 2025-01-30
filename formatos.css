@@ -18,6 +18,10 @@ table {
     border: solid 1px #000;
 }
 
+.TablaCentro {
+    text-align: center;
+}
+
 th {
     text-align: center;
     border: solid 1px #000;
@@ -26,9 +30,5 @@ th {
 td {
     text-align: justify;
     border: solid 1px #000;
-}
-
-.TablaCentro {
-    text-align: center;
 }
 
