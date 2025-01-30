@@ -20,7 +20,7 @@ table {
     border: solid 1px #000;
 }
 
-.TablaCentro {
+td.TablaCentro {
     text-align: center;
 }
 
