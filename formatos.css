@@ -1,7 +1,7 @@
 #encabezado {
     color: white;
     text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     background-color: black;
 }
 
@@ -14,13 +14,13 @@ h1, h2, h3, h4 {
     font-size: medium;
 }
 
+.TablaCentro {
+    text-align: center;
+}
+
 table {
     width: 100%;
     border: solid 1px #000;
-}
-
-.TablaCentro {
-    text-align: center;
 }
 
 th {
