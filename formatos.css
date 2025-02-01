@@ -18,9 +18,8 @@ td.TablaCentro {
     text-align: center;
 }
 
-td.TablaJustify {
+.TablaJustify {
     text-align: justify;
-    border: solid 1px #000;
 }
 
 table {
@@ -37,4 +36,3 @@ td{
     text-align: center;
     border: solid 1px #000;
 }
-
