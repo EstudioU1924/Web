@@ -23,15 +23,13 @@ table {
     border: solid 1px #000;
 }
 
-
-
 th {
     text-align: center;
     border: solid 1px #000;
 }
 
 td {
-    text-align: justify;
+    text-align: center;
     border: solid 1px #000;
 }
 
