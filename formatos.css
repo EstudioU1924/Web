@@ -28,7 +28,7 @@ th {
     border: solid 1px #000;
 }
 
-td {
+td.TablaJustify {
     text-align: justify;
     border: solid 1px #000;
 }
