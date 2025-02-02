@@ -36,3 +36,7 @@ td{
     text-align: center;
     border: solid 1px #000;
 }
+footer {
+    background-color: #000;
+    width: 50%;
+}
