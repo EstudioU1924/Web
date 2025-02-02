@@ -37,6 +37,9 @@ td{
     border: solid 1px #000;
 }
 footer {
+    position: fixed;
+    color: #ffffbf;
     background-color: #000;
-    width: 50%;
+    text-align: center;
+    width: 100%;
 }
