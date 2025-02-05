@@ -37,6 +37,11 @@ td{
     border: solid 1px #000;
 }
 
+tfoot{
+    text-align: justify;
+    font-size: smaller;
+}
+
 footer {
     color: white;
     background-color: #000;
