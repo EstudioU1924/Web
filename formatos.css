@@ -15,6 +15,7 @@
     font-weight: bolder;
     background-color: black;
     border:red 2px;
+    line-height: 50px;
 }
 
 a:link {
