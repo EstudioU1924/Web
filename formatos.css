@@ -1,36 +1,45 @@
 #encabezado {
-    color: beige;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
     text-align: center;
     font-weight: bolder;
     background-color: black;
-    border: beige;
+    border: #ffffbf 2px;
     
 }
 
 #Menu {
-    color: beige;
-    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: small;
+    text-align: justify;
     font-weight: bolder;
     background-color: black;
-    border: beige;
+    border: #ffffbf 2px;
 }
 
 body {
     font-family: sans-serif;
-    background-color: beige;
+    font-size: small;
     border: #000;
 }
 
 h1, h2, h3, h4 {
     text-align: center;
-    font-size: medium;
+    font-family: sans-serif;
+    font-size: small;
 }
 
 td.TablaCentro {
+    font-family: sans-serif;
+    font-size: small;
     text-align: center;
 }
 
 .TablaJustify {
+    font-family: sans-serif;
+    font-size: small;
     text-align: justify;
 }
 
@@ -41,11 +50,15 @@ table {
 
 th {
     text-align: center;
+    font-family: sans-serif;
+    font-size: small;
     border: solid 1px #000;
 }
 
 td{
     text-align: center;
+    font-family: sans-serif;
+    font-size: small;
     border: solid 1px #000;
 }
 
