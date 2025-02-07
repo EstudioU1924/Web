@@ -5,16 +5,16 @@
     text-align: center;
     font-weight: bolder;
     background-color: black;
-    border: #ffffbf 2px;
+    border: red 2px;
     
 }
 
 #Menu {
     font-size: small;
-    text-align: justify;
+    text-align: center;
     font-weight: bolder;
     background-color: black;
-    border: #ffffbf 1px;
+    border:red 2px;
 }
 
 a:link {
@@ -22,6 +22,7 @@ a:link {
     font-size: small;
     color: white;
     transition: background-color 0.5;
+    text-decoration: none;
 }
 
 a:visited {
@@ -35,6 +36,7 @@ a:hover {
     font-family: sans-serif;
     font-size: small;
     background-color: red;
+    text-decoration: none;
 }
 
 body {
