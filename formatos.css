@@ -7,7 +7,7 @@
     background-color: black;
 }
 
-#Menu li {
+#Menu {
     display: inline-block;
     text-align: center;
     background-color: #000;    
