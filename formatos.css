@@ -15,6 +15,10 @@
 
 #Menu ul li {
     background-color: #000;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
 }
 
 #Menu ul a {
@@ -28,7 +32,10 @@
     letter-spacing: 2px;
 }
 
-
+#Menu ul li:hover {
+    background-color: #ffffbf;
+    color: #000;
+}
 
 body {
     font-family: sans-serif;
