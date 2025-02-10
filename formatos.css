@@ -65,7 +65,7 @@ td.TablaCentro {
 }
 
 .img_Noticias {
-    float: left;
+    float: inline-start;
 }
 
 table {
