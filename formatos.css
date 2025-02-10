@@ -26,6 +26,7 @@
 #Menu ul a {
     display: block;
     color: white;
+    text-align: center;
     text-decoration: none;
     font-weight: 400;
     font-size: 10px;
@@ -36,7 +37,7 @@
 
 #Menu ul li:hover {
     background-color: #ffffbf;
-    color: #000;
+    color: red;
 }
 
 body {
