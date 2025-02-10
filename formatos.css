@@ -16,7 +16,8 @@
 
 #Menu ul li {
     background-color: #000;
-    position: relative;
+    text-align: center;
+    position: static;
     float: left;
     margin: 0;
     padding: 0;
