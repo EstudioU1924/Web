@@ -39,14 +39,6 @@
 
 #Menu ul li:hover {
     background: #ffffbf;
-}
-
-ul li ul li a {
-    display: block !important;
-}
-
-ul li ul li:hover {
-    background-color: #ffffbf;
     color: red;
 }
 
