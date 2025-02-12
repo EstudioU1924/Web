@@ -11,7 +11,9 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    background: #000;
+    background-color: black;
+    text-align: justify;
+    
 }
 
 #Menu li {
@@ -19,12 +21,13 @@
 }
 
 #Menu li a {
-    display: block;
     color: white;
-    font-weight: bolder;
     text-decoration: none;
-    padding: 20px;
+    display: block;
+    background-color: black;
+    font-weight: bolder;
     font-family: sans-serif;
+    padding: 20px;
 }
 
 #Menu li:hover {
