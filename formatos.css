@@ -18,6 +18,7 @@
 
 #Menu li {
     display: inline-block;
+    text-align: center;
 }
 
 #Menu li a {
@@ -82,14 +83,14 @@ td{
     border: solid 1px #000;
 }
 
-tfoot {
-    text-align: justify;
-    font-size: smaller;
-}
-
 footer {
     color: white;
     background-color: #000;
     text-align: center;
     width: 100%;
+}
+
+tfoot {
+    text-align: justify;
+    font-size: smaller;
 }
