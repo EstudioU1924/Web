@@ -67,12 +67,11 @@ td.TablaCentro {
     text-align: justify;
 }
 
-th.Puntos{
+.Puntos{
     font-weight: bolder;
-}
-
-.img_Noticias {
-    float: left;
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
 }
 
 table {
