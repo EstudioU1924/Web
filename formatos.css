@@ -54,7 +54,7 @@ td.TablaCentro {
     text-align: center;
 }
 
-td.TablaDescenso {
+.TablaDescenso {
     font-family: sans-serif;
     font-size: small;
     text-align: center;
@@ -65,6 +65,10 @@ td.TablaDescenso {
     font-family: sans-serif;
     font-size: small;
     text-align: justify;
+}
+
+th.Puntos{
+    font-weight: bolder;
 }
 
 .img_Noticias {
