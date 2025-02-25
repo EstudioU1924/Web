@@ -93,6 +93,10 @@ td{
     border: solid 1px #000;
 }
 
+iframe{
+    width: 100%;
+}
+
 footer {
     color: white;
     background-color: #000;
