@@ -54,11 +54,25 @@ td.TablaCentro {
     text-align: center;
 }
 
+.TablaVerde {
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    background-color: lightgreen;
+}
+
 .TablaDescenso {
     font-family: sans-serif;
     font-size: small;
     text-align: center;
     background-color: red;
+}
+
+.TablaAmarillo {
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    background-color: yellow;
 }
 
 .TablaJustify {
