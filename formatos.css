@@ -114,10 +114,10 @@ td{
 }
 
 :root{
-    --color_adidas: #000;
-    --color_marathon: #000;
-    --color_convert: #000;
-    --color_puma: #000;
+    --color_adidas: #444444;
+    --color_marathon: #444444;
+    --color_convert: #444444;
+    --color_puma: #444444;
     --background-color: rgb(15, 17, 27);
 }
 
