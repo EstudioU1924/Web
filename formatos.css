@@ -118,6 +118,7 @@ td{
     --color_marathon: #000;
     --color_convert: #000;
     --color_puma: #000;
+    --background-color: rgb(15, 17, 27);
 }
 
 .title_grafico{
